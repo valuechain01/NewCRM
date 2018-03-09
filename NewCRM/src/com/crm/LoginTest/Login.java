@@ -20,7 +20,7 @@ public class Login {
 		driver.get("https://local.valuechain.com/Login");
 		driver.manage().window().maximize();
 	}
-//
+//test
 	
 	@Test(priority=1)
 	public void loginTest() throws Exception {
